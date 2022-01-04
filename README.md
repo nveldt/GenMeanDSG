@@ -5,6 +5,8 @@ Algorithmic implementations and code for experimental results from the paper
 Nate Veldt, Austin Benson, Jon Kleinberg  
 KDD 2021**
 
+([https://arxiv.org/abs/2106.00909](https://arxiv.org/abs/2106.00909))
+
 ## Data
 
 The peeling algorithms experiments use publicly available graphs mostly from the SNAP repository ([https://snap.stanford.edu/data/index.html](https://snap.stanford.edu/data/index.html)),
